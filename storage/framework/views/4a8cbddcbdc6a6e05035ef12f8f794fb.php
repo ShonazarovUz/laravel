@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/resources/views/components/layouts/dashboard.blade.php ENDPATH**/ ?>
